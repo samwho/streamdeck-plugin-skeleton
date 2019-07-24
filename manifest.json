@@ -1,0 +1,36 @@
+{
+  "Actions": [
+    {
+      "Name": "Example",
+      "Icon": "images/black",
+      "SupportedInMultiActions": false,
+      "UUID": "changethis",
+      "States": [{
+        "Image": "images/black",
+        "Title": "Example",
+        "TitleAlignment": "middle",
+        "FontSize": "11"
+      }]
+    }
+  ],
+  "SDKVersion": 2,
+  "Author": "Your Name",
+  "Category": "Your Plugin Name",
+  "CategoryIcon": "images/black",
+  "Icon": "images/black",
+  "CodePath": "streamdeck-plugin-skeleton.exe",
+  "Description": "Some description of what your plugin does",
+  "Name": "Example",
+  "URL": "",
+  "Version": "0.1",
+  "OS": [
+    {
+        "Platform": "windows",
+        "MinimumVersion" : "10"
+    }
+  ],
+  "Software":
+    {
+        "MinimumVersion" : "4.1"
+    }
+}
